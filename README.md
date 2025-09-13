@@ -70,10 +70,3 @@ pip install transformers datasets torch
 -   This notebook was developed as part of my **AI training**.
 -   It is an educational resource to demonstrate how to fine-tune Gemma
     models with Hugging Face.
-
-------------------------------------------------------------------------
-
-## 📜 License
-
-This repository is shared for learning purposes. Please give credit if
-you use it in your own work.
