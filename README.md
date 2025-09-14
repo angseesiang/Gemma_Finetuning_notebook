@@ -35,8 +35,8 @@ models, and fine-tune Gemma for custom tasks.
 1.  Clone this repository:
 
     ``` bash
-    git clone https://github.com/your-username/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/angseesiang/Gemma_Finetuning_notebook.git
+    cd Gemma_Finetuning_notebook
     ```
 
 2.  Open the Jupyter Notebook:
